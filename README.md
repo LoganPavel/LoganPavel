@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @LoganPavel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-LoganPavel/LoganPavel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello everyone my name is Pavel
+I am a beginner in learning programming
+to learn my first language, I chose the python programming language
+I hope that someday I will succeed =DD
